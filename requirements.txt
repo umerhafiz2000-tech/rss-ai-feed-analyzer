@@ -1,0 +1,7 @@
+requests
+bs4
+feedparser
+pymongo
+flask
+certifi
+ollama
